@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="parserlast" />
+        <module name="LessonMVC" />
+        <module name="lesson_mvc" />
+        <module name="LessonONE (2)" />
+        <module name="LessonONE (3)" />
+        <module name="LessonONE (1)" />
+        <module name="LessonONE (6)" />
+        <module name="LessonONE" />
+        <module name="LessonONE (4)" />
+        <module name="LessonONE (5)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lesson_mvc" target="17" />
+      <module name="LessonMVC" target="1.7" />
+      <module name="LessonONE" target="1.7" />
+      <module name="LessonONE (1)" target="1.7" />
+      <module name="LessonONE (2)" target="1.7" />
+      <module name="LessonONE (3)" target="1.7" />
+      <module name="LessonONE (4)" target="1.8" />
+      <module name="LessonONE (5)" target="1.7" />
+      <module name="LessonONE (6)" target="1.7" />
+      <module name="parserlast" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

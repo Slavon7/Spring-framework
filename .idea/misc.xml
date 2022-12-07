@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_beaninit" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_dataObj" />
+    <file type="web" url="file://$PROJECT_DIR$/LessonDI" />
+    <file type="web" url="file://$PROJECT_DIR$/LessonDI_2" />
+    <file type="web" url="file://$PROJECT_DIR$/LessonIoC" />
+    <file type="web" url="file://$PROJECT_DIR$/LessonMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/LessonONE" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LessonDI/pom.xml" />
+        <option value="$PROJECT_DIR$/LessonIoC/pom.xml" />
+        <option value="$PROJECT_DIR$/LessonMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/LessonONE/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/LessonDI_2/pom.xml" />
+        <option value="$PROJECT_DIR$/parserlast/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_dataObj/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_beaninit/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+</project>
